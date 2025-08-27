@@ -52,7 +52,7 @@
 
 ## 📫 Connect with Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/sudin-rai-0a8181278>"<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/sudin-rai-0a8181278>"<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
