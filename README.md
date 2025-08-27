@@ -1,36 +1,68 @@
-# 👋 Hi, I'm Sudin
+<h1 align="center">👋 Hey, I'm Eren</h1>
 
-🌱 Aspiring **Cybersecurity Professional** | Currently working in **IT Support & Bakery Operations**  
-💡 Lifelong learner aiming to become a **polymath**, with interests across tech, security, and problem-solving.  
-🎯 Currently preparing for **CompTIA Security+** while gaining hands-on skills through **TryHackMe** and building projects in **Python & Java**.  
+<p align="center">
+  🚀 Aspiring <b>Cybersecurity Professional</b> | 💻 IT Support | 🌍 Lifelong Learner  
+</p>
 
----
-
-## 🛠️ Skills & Tools
-- Programming: Java (Intermediate), Python (Beginner)  
-- Cybersecurity Labs: TryHackMe, Professor Messer resources  
-- IT Support: Troubleshooting, hardware/software setup, customer support  
-- Tools: Linux, Wireshark (basic), Nmap (basic)
+<p align="center">
+  <i>"Security is not a product, but a process." – Bruce Schneier</i>
+</p>
 
 ---
 
-## 🚀 Current Focus
-- 📖 Studying for **CompTIA Security+** (target: next 3–4 months)  
-- 🔒 Building small security projects & documenting progress  
-- 🎮 Completing TryHackMe labs (Networking, Web, SOC, etc.)  
+### 🔥 About Me
+- 🌱 On a journey to become a **cybersecurity expert** (currently studying for **CompTIA Security+**)  
+- 🕵️ Exploring **TryHackMe labs** & building small projects in **Python & Java**  
+- ⚡ Passionate about solving problems, learning across disciplines, and growing into a **polymath**  
+- 🎯 Long-term goal: **Cybersecurity Analyst / SOC role** with hands-on security expertise  
 
 ---
 
-## 📂 Featured Projects
-- [🔐 Password Generator (Python)](link-to-repo) – Simple script to generate secure random passwords.  
-- [🌐 Networking Labs](link-to-repo) – Summaries of key networking/security concepts with examples.  
-- [📑 Cybersecurity Learning Journey](link-to-repo) – Weekly summaries of what I’ve learned.  
+### 🛠️ Skills & Tools  
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-Intermediate-blue?logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Beginner-yellow?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-Explorer-orange?logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/TryHackMe-Labs-red?logo=tryhackme&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-Basics-lightblue?logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Active-black?logo=github&logoColor=white" />
+</p>
 
 ---
 
-## 📫 Connect with Me
-- [LinkedIn](your-linkedin-url)  
-- Email: your-professional-email@example.com  
+### 📂 Featured Projects
+- 🔐 [**Password Generator (Python)**](link-to-repo)  
+   *Simple tool for generating secure random passwords*  
+
+- 🌐 [**Networking & Security Labs**](link-to-repo)  
+   *Documented learning from TryHackMe & Security+ prep*  
+
+- 📑 [**Cybersecurity Learning Journey**](link-to-repo)  
+   *Weekly summaries of what I’ve studied, tools explored, and lessons learned*  
 
 ---
-✨ *"Security is not a product, but a process." – Bruce Schneier*
+
+### 🎯 Current Focus
+📖 Preparing for **CompTIA Security+**  
+🕹️ Expanding skills with **TryHackMe** (Networking, SOC, Web)  
+💡 Building & documenting **hands-on projects**  
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" height="150"/>
+</p>
+
+---
+
+### 📫 Connect with Me
+<p align="left">
+  <a href="your-linkedin-url"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-grey?logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">⚡ Always learning. Always building. Always growing. ⚡</p>
