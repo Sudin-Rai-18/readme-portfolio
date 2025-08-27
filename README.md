@@ -63,6 +63,10 @@ A showcase of small projects, scripts, and hands-on exercises:
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/>
   </a>
 </p>
+| Skill | Progress |
+|-------|---------|
+| Python | 🟩🟩🟩⬜⬜ |
+| Networking | 🟩🟩⬜⬜⬜ |
 
 ---
 
