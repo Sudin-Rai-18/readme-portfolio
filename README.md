@@ -44,8 +44,8 @@
 
 ## 📂 Documentation  
 Currently building and organising my technical notes, lab reports, and project documentation.  
-- 📝 **Cybersecurity Notes** – In progress, will include **TryHackMe lab walkthroughs, and Python/Java scripts**  
-- 📄 **Reference Guides** – In progress, will include **networking basics, Linux commands, Wireshark analysis**, and other useful references.  
+- 📝 **Cybersecurity Notes** – In progress - (will include **TryHackMe lab walkthroughs, and Python/Java scripts**  )
+- 📄 **Reference Guides** – In progress - (will include **networking basics, Linux commands, Wireshark analysis**, and other useful references.  )
 
 ---
 
