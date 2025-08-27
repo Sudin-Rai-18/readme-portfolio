@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Eren</h1>
+<h1 align="center">👋 Hey, I'm Sudin</h1>
 <h3>Nerdy but Sporty Person</h3>
 
 <p align="center">
