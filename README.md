@@ -61,6 +61,7 @@ A showcase of small projects, scripts, and hands-on exercises:
 <p align="center">
   <a href="https://www.linkedin.com/in/sudin-rai-0a8181278">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/>
+    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3757304" style='border:none;'></iframe>
   </a>
 </p>
 
