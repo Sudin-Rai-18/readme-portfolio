@@ -1,53 +1,36 @@
-
-
 # 👋 Hi, I'm Sudin
 
-Aspiring cybersecurity professional currently preparing for the CompTIA Security+ certification and gaining hands-on experience through platforms like TryHackMe. I am passionate about building a career in cybersecurity and constantly exploring new tools, techniques, and challenges.
+🌱 Aspiring **Cybersecurity Professional** | Currently working in **IT Support & Bakery Operations**  
+💡 Lifelong learner aiming to become a **polymath**, with interests across tech, security, and problem-solving.  
+🎯 Currently preparing for **CompTIA Security+** while gaining hands-on skills through **TryHackMe** and building projects in **Python & Java**.  
 
 ---
 
-## 🔧 What I'm Working On
-
-- Solving TryHackMe rooms focused on cybersecurity principles, network security, and incident response  
-- Practising Linux commands and system navigation on Arch Linux, set up via UTM on my MacBook  
-- Exploring basic networking, ethical hacking concepts, and cybersecurity tools  
-
----
-
-## 💡 Real-World Experience
-
-- Assisted neighbours in troubleshooting Wi-Fi issues and recovering lost Gmail accounts  
-- Helped with practical tech tasks like booking flights and guiding others through technical problems  
-- Developed strong communication skills by explaining technical solutions clearly to non-technical users  
+## 🛠️ Skills & Tools
+- Programming: Java (Intermediate), Python (Beginner)  
+- Cybersecurity Labs: TryHackMe, Professor Messer resources  
+- IT Support: Troubleshooting, hardware/software setup, customer support  
+- Tools: Linux, Wireshark (basic), Nmap (basic)
 
 ---
 
-## 📚 Tools & Topics I'm Exploring:
-- Nmap, Wireshark, Burp Suite
-- Linux fundamentals, Bash commands
+## 🚀 Current Focus
+- 📖 Studying for **CompTIA Security+** (target: next 3–4 months)  
+- 🔒 Building small security projects & documenting progress  
+- 🎮 Completing TryHackMe labs (Networking, Web, SOC, etc.)  
 
 ---
 
-## 🔧 Technical Skill
-- Java Programming (Academy)
-- Basic Python (Self-Learning)
+## 📂 Featured Projects
+- [🔐 Password Generator (Python)](link-to-repo) – Simple script to generate secure random passwords.  
+- [🌐 Networking Labs](link-to-repo) – Summaries of key networking/security concepts with examples.  
+- [📑 Cybersecurity Learning Journey](link-to-repo) – Weekly summaries of what I’ve learned.  
 
 ---
 
-## 📚 Learning Resources
-
-- TryHackMe labs and rooms  
-- Professor Messer’s CompTIA Security+ videos and study guides  
-- YouTube tutorials and cybersecurity podcasts  
+## 📫 Connect with Me
+- [LinkedIn](your-linkedin-url)  
+- Email: your-professional-email@example.com  
 
 ---
-
-## 🎯 Current Goals
-
-- Complete CompTIA Security+ certification by October 2025  
-- Document lab walkthroughs and hands-on projects here on GitHub  
-- Continue building practical skills and expanding my cybersecurity portfolio  
-
----
-
-I’m excited to grow as a cybersecurity professional and welcome connections and collaborations.
+✨ *"Security is not a product, but a process." – Bruce Schneier*
