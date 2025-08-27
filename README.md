@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm Sudin</h1>
-<h3>Nerdy but Sporty Person</h3>
+<h4>Nerdy but Sporty Person</h4>
 
 <p align="center">
   🚀 Aspiring <b>Cybersecurity Professional</b> | 💻 IT Support | 🌍 Lifelong Learner  
@@ -36,6 +36,23 @@
 - 📖 Preparing for **CompTIA Security+** and actively applying for **Apprenticeships**  
 - 🕹️ Expanding skills with **TryHackMe** (Networking, SOC, Web)  
 - 💡 Building & documenting **hands-on projects**  
+
+---
+
+---
+
+## 📂 Documentation  
+Currently building and organising my technical notes, lab reports, and project documentation.  
+- 📝 **Cybersecurity Notes** – In progress, will include **TryHackMe lab walkthroughs, and Python/Java scripts**  
+- 📄 **Reference Guides** – In progress, will include **networking basics, Linux commands, Wireshark analysis**, and other useful references.  
+
+---
+
+## 💻 Projects  
+A showcase of small projects, scripts, and hands-on exercises:  
+- 🔧 **Python / Java Mini Projects** – Coming soon  
+- 🛡️ **TryHackMe Labs & Security Exercises** – Coming soon  
+- 🌐 **Web & Networking Projects** – Coming soon  
 
 ---
 
