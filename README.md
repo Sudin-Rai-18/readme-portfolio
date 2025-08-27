@@ -57,7 +57,7 @@ A showcase of small projects, scripts, and hands-on exercises:
 
 ---
 
-## 📫 Connect with Me  
+## 📫 Let's Connect and Check Out My TryHackMe Profile 
 <p align="center">
   <a href="https://www.linkedin.com/in/sudin-rai-0a8181278">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/>
