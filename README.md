@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Eren</h1>
+<h1 align="center">👋 Hey, I'm Sudin</h1>
 
 <p align="center">
   🚀 Aspiring <b>Cybersecurity Professional</b> | 💻 IT Support | 🌍 Lifelong Learner  
