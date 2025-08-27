@@ -63,7 +63,7 @@ A showcase of small projects, scripts, and hands-on exercises:
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/>
   </a> 
   <a href="https://www.tryhackme.com/api/v2/badges/public-profile?userPublicId=3757304">
-    <img src="https://img.shields.io/badge/TryHackMe-gray?logo=tryhackme&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TryHackMe-gray?logo=tryhackme&logoColor=white" width="300"/>
   </a>
 </p>
 
