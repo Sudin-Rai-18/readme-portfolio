@@ -1,4 +1,5 @@
 <h1 align="center">👋 Hey, I'm Eren</h1>
+<h3>Nerdy but Sporty Person</h3>
 
 <p align="center">
   🚀 Aspiring <b>Cybersecurity Professional</b> | 💻 IT Support | 🌍 Lifelong Learner  
@@ -31,37 +32,11 @@
 
 ---
 
-## 📂 Featured Projects  
-🔐 **Password Generator (Python)**  
-*Simple tool for generating secure random passwords*  
-👉 [View Project](https://github.com/your-username/password-generator)  
-
-🌐 **Networking & Security Labs**  
-*Documented learning from TryHackMe & Security+ prep*  
-👉 [View Project](https://github.com/your-username/networking-security-labs)  
-
-📑 **Cybersecurity Learning Journey**  
-*Weekly summaries of what I’ve studied, tools explored, and lessons learned*  
-👉 [View Project](https://github.com/your-username/cybersecurity-learning-journey)  
-
----
 
 ## 🎯 Current Focus  
-📖 Preparing for **CompTIA Security+**  
+📖 Preparing for **CompTIA Security+** and Actively applying for **Apprenticeship**
 🕹️ Expanding skills with **TryHackMe** (Networking, SOC, Web)  
 💡 Building & documenting **hands-on projects**  
-
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" height="140"/>
-</p>
 
 ---
 
@@ -77,10 +52,10 @@
 
 ## 📫 Connect with Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-url"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-grey?logo=gmail&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/sudin-rai-0a8181278"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
 
-<p align="center">⚡ Always learning. Always building. Always growing. ⚡</p>
+<p align="center">⚡ Always learning. Always building. Always growing. Mistakes are part of the journey to growth. ⚡</p>
+
