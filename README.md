@@ -62,8 +62,8 @@ A showcase of small projects, scripts, and hands-on exercises:
   <a href="https://www.linkedin.com/in/sudin-rai-0a8181278">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/>
   </a> 
-  <a href="https://www.tryhackme.com/api/v2/badges/public-profile?userPublicId=3757304">
-    <img src="https://img.shields.io/badge/TryHackMe-gray?logo=tryhackme&logoColor=white" width="300"/>
+  <a href="https://www.tryhackme.com/p/18eren">
+    <img src="https://img.shields.io/badge/TryHackMe-gray?logo=tryhackme&logoColor=white"/>
   </a>
 </p>
 
