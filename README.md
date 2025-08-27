@@ -39,16 +39,6 @@
 
 ---
 
-## 🗺️ Roadmap  
-- ✔️ Learn **Git & GitHub basics**  
-- ✔️ Build small **Python / Java projects**  
-- ✔️ Start **TryHackMe journey**  
-- 🔜 Achieve **CompTIA Security+**  
-- 🔜 Contribute to **open-source security projects**  
-- 🔜 Land first role in **Cybersecurity / SOC**  
-
----
-
 ## 📫 Connect with Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/sudin-rai-0a8181278">
