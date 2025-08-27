@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm Sudin</h1>
-<h4>Nerdy but Sporty Person</h4>
+<h4>Nerdy but Sporty</h4>
 
 <p align="center">
   🚀 Aspiring <b>Cybersecurity Professional</b> | 💻 IT Support | 🌍 Lifelong Learner  
@@ -65,4 +65,4 @@ A showcase of small projects, scripts, and hands-on exercises:
 
 ---
 
-<p align="center">⚡ Always learning. Always building. Always growing. Mistakes are part of the journey to growth. ⚡</p>
+<h4 align="center">⚡ Always learning. Always building. Always growing. Mistakes are part of the journey to growth. ⚡</h4>
