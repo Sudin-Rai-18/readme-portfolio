@@ -60,10 +60,10 @@ A showcase of small projects, scripts, and hands-on exercises:
 ## 📫 Let's Connect and Check Out My TryHackMe Profile 
 <p align="center">
   <a href="https://www.linkedin.com/in/sudin-rai-0a8181278">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" width="150"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" width="100"/>
   </a> 
   <a href="https://www.tryhackme.com/p/18eren">
-    <img src="https://img.shields.io/badge/TryHackMe-gray?logo=tryhackme&logoColor=white" width="150"/>
+    <img src="https://img.shields.io/badge/TryHackMe-gray?logo=tryhackme&logoColor=white" width="120"/>
   </a>
 </p>
 
