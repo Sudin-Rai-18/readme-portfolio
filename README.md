@@ -22,8 +22,8 @@
 ## 🛠️ Skills & Tools  
 <p align="center">
   <img src="https://img.shields.io/badge/Java-Intermediate-blue?logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-Transferable from JAVA-yellow?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-Beginner-green?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Transferable-yellow?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-Beginner-green?logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-Explorer-orange?logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/TryHackMe-Labs-red?logo=tryhackme&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-Basics-lightblue?logo=wireshark&logoColor=white" />
@@ -32,30 +32,30 @@
 
 ---
 
-
 ## 🎯 Current Focus  
-📖 Preparing for **CompTIA Security+** and Actively applying for **Apprenticeship**
-🕹️ Expanding skills with **TryHackMe** (Networking, SOC, Web)  
-💡 Building & documenting **hands-on projects**  
+- 📖 Preparing for **CompTIA Security+** and actively applying for **Apprenticeships**  
+- 🕹️ Expanding skills with **TryHackMe** (Networking, SOC, Web)  
+- 💡 Building & documenting **hands-on projects**  
 
 ---
 
 ## 🗺️ Roadmap  
-✔️ Learn Git & GitHub basics  
-✔️ Build small Python/Java projects  
-✔️ Start TryHackMe journey  
-🔜 Achieve **CompTIA Security+**  
-🔜 Contribute to open-source security projects  
-🔜 First role in **Cybersecurity / SOC**  
+- ✔️ Learn **Git & GitHub basics**  
+- ✔️ Build small **Python / Java projects**  
+- ✔️ Start **TryHackMe journey**  
+- 🔜 Achieve **CompTIA Security+**  
+- 🔜 Contribute to **open-source security projects**  
+- 🔜 Land first role in **Cybersecurity / SOC**  
 
 ---
 
 ## 📫 Connect with Me  
 <p align="center">
-  <a href="www.linkedin.com/in/sudin-rai-0a8181278>"<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sudin-rai-0a8181278">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">⚡ Always learning. Always building. Always growing. Mistakes are part of the journey to growth. ⚡</p>
-
