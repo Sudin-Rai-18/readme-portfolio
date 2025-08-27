@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Linux-Explorer-orange?logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/TryHackMe-Labs-red?logo=tryhackme&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-Basics-lightblue?logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-Basics-Grey?logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-Basics-Grey?logo=Nmap&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-Active-black?logo=github&logoColor=white" />
 </p>
 
