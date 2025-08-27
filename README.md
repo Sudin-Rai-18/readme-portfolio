@@ -21,14 +21,14 @@
 
 ## 🛠️ Skills & Tools  
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-Intermediate-blue?logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-Transferable-yellow?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-Beginner-green?logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-Explorer-orange?logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/TryHackMe-Labs-red?logo=tryhackme&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-Basics-lightblue?logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-Basics-purple?logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-Active-black?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-Intermediate-blue?logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-Transferable-yellow?logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-Beginner-green?logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-Explorer-orange?logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TryHackMe-Labs-red?logo=tryhackme&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-Basics-lightblue?logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-Basics-purple?logo=nmap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Active-black?logo=github&logoColor=white"/>
 </p>
 
 ---
@@ -60,10 +60,10 @@ A showcase of small projects, scripts, and hands-on exercises:
 ## 📫 Let's Connect and Check Out My TryHackMe Profile 
 <p align="center">
   <a href="https://www.linkedin.com/in/sudin-rai-0a8181278">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" width="150"/>
   </a> 
   <a href="https://www.tryhackme.com/p/18eren">
-    <img src="https://img.shields.io/badge/TryHackMe-gray?logo=tryhackme&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TryHackMe-gray?logo=tryhackme&logoColor=white" width="150"/>
   </a>
 </p>
 
