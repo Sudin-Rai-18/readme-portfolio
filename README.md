@@ -51,8 +51,8 @@ Currently building and organising my technical notes, lab reports, and project d
 
 ## 💻 Projects  
 A showcase of small projects, scripts, and hands-on exercises:  
-- 🛡️ **TryHackMe Labs & Security Exercises** – Coming soon  
-- 🌐 **Web & Networking Projects** – Coming soon  
+- 🛡️ **TryHackMe Labs & Security Exercises** – In Progress
+- 🌐 **Web & Networking Projects** – In Progress  
 
 ---
 
