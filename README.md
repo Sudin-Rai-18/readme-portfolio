@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm Sudin</h1>
-<h4>Nerdy but Sporty</h4>
+<h4>Nerdy🤓 and Sporty🏆 too</h4>
 
 <p align="center">
   🚀 Aspiring <b>Cybersecurity Professional</b> | 💻 IT Support | 🌍 Lifelong Learner  
