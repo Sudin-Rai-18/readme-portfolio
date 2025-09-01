@@ -12,7 +12,7 @@
 ---
 
 ## 🔥 About Me  
-- 🌱 On a journey to become a **cybersecurity expert** (currently studying for **CompTIA Security+**)  
+- 🌱 On a journey to become a **cybersecurity expert** 
 - 🕵️ Exploring **TryHackMe labs** & also practicing with **Cyber tools**
 - ⚡ Passionate about solving problems, learning across disciplines, and growing into a **polymath**  
 - 🎯 Long-term goal: **Cybersecurity Analyst / SOC role** with hands-on security expertise  
