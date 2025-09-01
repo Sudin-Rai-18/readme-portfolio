@@ -43,7 +43,7 @@
 ---
 
 ## 📂 Documentation  
-Currently building and organising my technical notes, lab reports, and project documentation.  
+Currently building and organizing my technical notes, lab reports, and project documentation.  
 - 📝 **Cybersecurity Documents** – In progress - (will include **TryHackMe lab walkthroughs, and Python/Java scripts**  )
 - 📄 **Reference Guide and Documents** – In progress - (will include **networking basics, Linux commands, Wireshark analysis**, and other useful references.  )
 
